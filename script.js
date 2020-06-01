@@ -1,0 +1,3 @@
+ToxProgress.create();
+ToxProgress.animate();
+
